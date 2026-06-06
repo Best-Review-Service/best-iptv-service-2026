@@ -680,4 +680,4 @@ The bottom line: cable TV is overpriced and outdated. IPTV delivers more content
 <!-- last-verified: 2026-04-27 -->
 
 ---
-*Last verified: June 05, 2026*
+*Last verified: June 06, 2026*
