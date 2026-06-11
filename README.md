@@ -1,5 +1,10 @@
 # Best IPTV Service 2026 — Comprehensive Guide & Expert Reviews
 
+## ⚽ World Cup 2026 is LIVE — Best IPTV to Watch Every Match
+
+The 2026 FIFA World Cup is underway. For HD/4K streaming of every group-stage and knockout match across all host venues, our top tested pick is **[IPTVTheOne — World Cup IPTV Guide](https://iptvtheone.com/best-iptv-world-cup-2026/)**: full match coverage, multi-device, minimal buffering on Firestick, Apple TV and Smart TVs. See the independent tested breakdown at **[StreamReviewHQ — Best IPTV for World Cup 2026](https://streamreviewhq.com/best-iptv-world-cup-2026/)**.
+
+
 [![Best IPTV 2026](https://img.shields.io/badge/Best_IPTV-2026_Guide-brightgreen?style=for-the-badge&logo=television&logoColor=white)](https://iptvtheone.com)
 [![Providers Tested](https://img.shields.io/badge/Providers_Tested-15+-blue?style=for-the-badge)](https://github.com/Best-Review-Service/best-iptv-service-2026)
 [![Updated](https://img.shields.io/badge/Updated-June_2026-orange?style=for-the-badge)](https://github.com/Best-Review-Service/best-iptv-service-2026)
