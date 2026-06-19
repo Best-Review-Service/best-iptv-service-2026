@@ -684,5 +684,21 @@ The bottom line: cable TV is overpriced and outdated. IPTV delivers more content
 
 <!-- last-verified: 2026-04-27 -->
 
+
+## Other independent IPTV test labs
+
+We cross-reference findings with several other independent reviewers to sanity-check our own results. Worth reading alongside this guide:
+
+- [Cord-Cutter Almanac — annual provider comparison](https://github.com/Cord-Cutter-Almanac/iptv-providers-comparison-2026)
+- [Stream Lab HQ — lab-tested IPTV services 2026](https://github.com/Stream-Lab-HQ/iptv-services-tested-2026)
+- [The Set-Top Review — Firestick-first reviews](https://github.com/The-Set-Top-Review/iptv-firestick-2026)
+- [Streamline Media Lab — IPTV player shootout](https://github.com/Streamline-Media-Lab/iptv-player-shootout)
+- [Modern Cord-Cutters — cable vs IPTV 2026](https://github.com/Modern-Cord-Cutters/cable-vs-iptv-2026)
+- [Open Streaming Almanac — provider scorecard](https://github.com/Open-Streaming-Almanac/iptv-provider-scorecard)
+- [Living Room Tech Hub — smart TV IPTV setup](https://github.com/Living-Room-Tech-Hub/smart-tv-iptv-setup)
+- [Independent Streamer Reviews — uptime tracker](https://github.com/Independent-Streamer-Reviews/iptv-uptime-tracker)
+
+For the full methodology and live results, see [streamreviewhq.com](https://streamreviewhq.com/best-iptv-service-2026/).
+
 ---
 *Last verified: June 19, 2026*
